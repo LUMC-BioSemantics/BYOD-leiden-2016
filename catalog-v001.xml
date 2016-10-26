@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.orpha.net/version2.2" uri="file:/home/rajaram/Downloads/ordo_orphanet.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1477484853498" name="http://rdf.biosemantics.org/ontologies/byod-leiden-2016-onto" uri="byod-leiden-2016-onto.owl"/>
+    </group>
+</catalog>
